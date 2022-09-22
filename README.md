@@ -1,4 +1,4 @@
-# Nome do meu projeto
+# Template para a VitrineDev
 
 Rápida descrição do objetivo de fazer esse projeto
 
